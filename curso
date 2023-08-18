@@ -1,0 +1,7 @@
+ comandos basicos   git
+git clone  https://github.com/Carlosaburto17/Segundo-repositorio.git
+Git status  CUANDO HAGO CAMBIOS PARA GUARDAR
+
+3 comandos para subir  los cambios
+git add .(punto para todos los cambios
+git commit -m "mensaje" (para genera el comit te va a pedir el token personal que lo debes generar en configuraciones de la cuetna
