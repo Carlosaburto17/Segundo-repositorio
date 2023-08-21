@@ -1,7 +1,25 @@
- comandos basicos   git
+
+ comandos basicos   git  
 git clone  https://github.com/Carlosaburto17/Segundo-repositorio.git
 Git status  CUANDO HAGO CAMBIOS PARA GUARDAR
 
-3 comandos para subir  los cambios
+3 comandos para subir  los cambios 
 git add .(punto para todos los cambios
-git commit -m "mensaje" (para genera el comit te va a pedir el token personal que lo debes generar en configuraciones de la cuetna
+git commit -m "mensaje" (para genera el comit te va a pedir el token personal que lo debes generar en configuraciones de la cuetna 
+
+git push origin main para subirlo a la nuve 
+
+comandos para trabajo colaborativo
+
+git checkout main ir de rama a otra 
+
+git checkout -b (nombre de la rama nueba) 
+
+crear rama archivo index.js
+
+git status  para ver q camios no se an subido a la nube 
+
+git add . para agregar todo o 
+git add nombre del archivo  para agragar los cambios de solo ese archivo 
+
+integrar los cambios de la rama2 a la principal  Create pull request 
